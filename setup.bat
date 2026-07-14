@@ -1,10 +1,9 @@
 @echo off
-
-echo Preparing Windows IT Support Toolkit...
+echo Initializing Windows IT Support Toolkit...
 
 if not exist logs mkdir logs
 if not exist reports mkdir reports
+if not exist screenshots mkdir screenshots
 
-echo Setup Complete.
-
+echo Toolkit is ready.
 pause
