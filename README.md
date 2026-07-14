@@ -1,4 +1,4 @@
-# 🖥️ Windows IT Support Toolkit
+# Windows IT Support Toolkit
 
 A collection of Windows Batch and PowerShell scripts designed to assist IT support technicians with workstation deployment, system maintenance, troubleshooting, diagnostics, networking, reporting, and basic system administration.
 
@@ -6,7 +6,7 @@ This project demonstrates practical IT support skills and Windows administration
 
 ---
 
-## 📌 Features
+## Features
 
 - Workstation setup and configuration
 - System maintenance
@@ -56,9 +56,6 @@ Windows-IT-Support-Toolkit/
 ```
 
 ---
-
-# 🚀 Getting Started
-
 ## Requirements
 
 - Windows 10 or Windows 11
