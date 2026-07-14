@@ -15,7 +15,7 @@ echo.
 
 set /p choice=Select an option:
 
-if "%choice%"=="1" call modules\workstation-setup.bat
+if "%choice%"=="1" call modules\workstationsetup.bat
 if "%choice%"=="2" call modules\maintenance.bat
 if "%choice%"=="3" call modules\diagnostics.bat
 if "%choice%"=="4" call modules\networking.bat
