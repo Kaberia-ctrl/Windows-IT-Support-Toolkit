@@ -22,45 +22,11 @@ A collection of Windows Batch and PowerShell scripts designed to assist IT suppo
 
 ```
 └── Windows-IT-Support-Toolkit/
-│       ├── launcher.bat
-|       ├── launcher.ps1
-|       |
-│       ├── Batch/
-|       |    └── PC setup/
-│       |        ├── README.md
-|       |        └── setup.bat
-|       |
-│       |    └── Maintenance/
-│       |        ├── README.md
-|       |        └── maintenance.bat
-|       |
-|       |    └── Diagnostics/
-│       |        ├── README.md
-|       |        └── diag.bat
-|       |
-|       |    └── Network/
-│       |        ├── README.md
-|       |        └── test.bat
-|       |
-|       |    └── Security/
-│       |        ├── README.md
-|       |        └── sec.bat
-|       |
-│       ├── Powershell/
-|       |   └── PC setup/
-│       |        ├── README.md
-|       |        └── setup.ps1
-│       |   └── Maintenance/
-│       |        ├── README.md
-|       |        └── maintenance.ps1
-|       |   └── Network/
-│       |        ├── README.md
-|       |        └── test.ps1
+│       ├── setup.bat
+|       ├── setup.ps1
 |       |
 │       ├── logs/
 │       ├── reports/
-│       ├── screenshots/
-│       └── assets/
 └── README.md
 ```
 
