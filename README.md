@@ -30,19 +30,19 @@ A collection of Windows Batch and PowerShell scripts designed to assist IT suppo
 │       |        ├── README.md
 |       |        └── setup.bat
 |       |
-│       |    └── maintenance/
+│       |    └── Maintenance/
 │       |        ├── README.md
 |       |        └── maintenance.bat
 |       |
-|       |    └── diagnostics/
+|       |    └── Diagnostics/
 │       |        ├── README.md
 |       |        └── diag.bat
 |       |
-|       |    └── network/
+|       |    └── Network/
 │       |        ├── README.md
 |       |        └── test.bat
 |       |
-|       |    └── security/
+|       |    └── Security/
 │       |        ├── README.md
 |       |        └── sec.bat
 |       |

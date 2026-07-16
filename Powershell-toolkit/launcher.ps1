@@ -43,7 +43,7 @@ function Show-BatchMenu {
     Write-Host " WINDOWS IT SUPPORT TOOLKIT - Batch"
     Write-Host "====================================="
     Write-Host "[1] Run PC Setup"
-    Write-Host "[2] Run Maintenance Script"
+    Write-Host "[2] Run PC Maintenance Script"
     Write-Host "[3] Run Diagnostic Script"
     Write-Host "[4] Run Network Troubleshooting Script"
     Write-Host "[5] Run Security Script"
